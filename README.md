@@ -18,6 +18,11 @@
   <h3>💙𝑴𝒚 𝒍𝒊𝒏𝒌💙</h3>
   <a href="https://github.com/won-hyw"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/won-hyw"/></a> 
   <a href="https://velog.io/@won-hyw"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@won-hyw"/></a>
+  
+  <div align="center">
+  <h3>🌹𝒗𝒊𝒔𝒊𝒕𝒐𝒓🌹</h3>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwon-hyw&count_bg=%2384A9FF&title_bg=%23AEAEAE&icon=&icon_color=%233366FF&title=hits&edge_flat=false"/></a>
+</div>
   <br>
   <br>
   <br>
@@ -27,10 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=won-hyw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<div align="center">
-  <h3>🌹𝒗𝒊𝒔𝒊𝒕𝒐𝒓🌹</h3>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwon-hyw&count_bg=%2384A9FF&title_bg=%23AEAEAE&icon=&icon_color=%233366FF&title=hits&edge_flat=false"/></a>
-</div>
+
 
 
 
