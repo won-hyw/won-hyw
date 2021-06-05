@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=won-hyw&fontSize=90&animation=fadeIn&fontAlignY=38)
-### Hi there👋
+<div align="center">Hi there👋</span>
 
 <div align="center">
   <h3>✨𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌✨</h3>
