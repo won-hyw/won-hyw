@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=won-hyw&fontSize=90&animation=fadeIn&fontAlignY=38)
-<h4 align="center">Hi there👋<h4>
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=won-hyw&fontSize=90" />
   <h3>✨𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌✨</h3>
   <p>사용할 수 있거나 공부 중인 기술들</p>
   <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/>
