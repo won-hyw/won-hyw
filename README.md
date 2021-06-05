@@ -1,7 +1,5 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=won-hyw&fontSize=90&animation=fadeIn&fontAlignY=38)
-<div align="center">Hi there👋</span>
-
+<h4 align="center">Hi there👋<h4>
 <div align="center">
   <h3>✨𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌✨</h3>
   <p>사용할 수 있거나 공부 중인 기술들</p>
@@ -24,8 +22,6 @@
   <h3>🌹𝒗𝒊𝒔𝒊𝒕𝒐𝒓🌹</h3>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwon-hyw&count_bg=%2384A9FF&title_bg=%23AEAEAE&icon=&icon_color=%233366FF&title=hits&edge_flat=false"/></a>
 </div>
-  <br>
-  <br>
   <br>
 </div>
 
