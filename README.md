@@ -18,7 +18,7 @@
 
   <h3>💙𝑴𝒚 𝒍𝒊𝒏𝒌💙</h3>
   <a href="https://github.com/won-hyw"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/won-hyw"/></a>
-  <a href="https://www.instagram.com/jiwoni0i/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Instagram&logoColor=#E4405F&link=https://www.instagram.com/jiwoni0i/"/></a>
+  <a href="https://www.instagram.com/jiwoni0i/"><img src="https://img.shields.io/badge/Instagram-181717?style=flat-square&logo=Instagram&logoColor=#E4405F&link=https://www.instagram.com/jiwoni0i/"/></a>
   
   <div align="center">
   <h3>🌹𝒗𝒊𝒔𝒊𝒕𝒐𝒓🌹</h3>
