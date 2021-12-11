@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  
+  <img src="https://img,shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/>
 
   <h3>💙𝑴𝒚 𝒍𝒊𝒏𝒌💙</h3>
   <a href="https://github.com/won-hyw"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/won-hyw"/></a>
