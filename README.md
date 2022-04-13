@@ -18,15 +18,14 @@
 
   <h3>💙𝑴𝒚 𝒍𝒊𝒏𝒌💙</h3>
   <a href="https://github.com/won-hyw"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/won-hyw"/></a>
+    <a href="mailto:w2019@e-mirim.hs.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/jiwoni0i/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jiwoni0i/"/></a>
-  <a href="mailto:w2019@e-mirim.hs.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  
-  <div align="center">
+
   <h3>🌹𝒗𝒊𝒔𝒊𝒕𝒐𝒓🌹</h3>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwon-hyw&count_bg=%2384A9FF&title_bg=%23AEAEAE&icon=&icon_color=%233366FF&title=hits&edge_flat=false"/></a>
-</div>
-  <br>
-</div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=won-hyw&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=won-hyw&show_icons=true)] (https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=won-hyw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
