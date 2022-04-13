@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi, I'm won-hyw&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=won-hyw&fontSize=90" />
   <h3>✨ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌</h3>
   <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp;
