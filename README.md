@@ -29,6 +29,4 @@
   
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=won-hyw&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=won-hyw)](https://solved.ac/won-hyw)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=won-hyw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
