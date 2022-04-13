@@ -12,13 +12,17 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/>&nbsp;
+<!--   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/>&nbsp; -->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
   <h3>💙𝑴𝒚 𝒍𝒊𝒏𝒌💙</h3>
   <a href="https://github.com/won-hyw"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/won-hyw"/></a>
   <a href="https://www.instagram.com/jiwoni0i/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jiwoni0i/"/></a>
+  <a href="mailto:w2019@e-mirim.hs.kr">
+  	<img src="https://img.shields.io/badge/Gmail-d14836?style=
+    flat-square&logo=Gmail&logoColor=white&link=w2019@e-mirim.hs.kr"/>
+  </a>
   
   <div align="center">
   <h3>🌹𝒗𝒊𝒔𝒊𝒕𝒐𝒓🌹</h3>
