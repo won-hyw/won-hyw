@@ -24,10 +24,11 @@
   <h3>🌹 𝒗𝒊𝒔𝒊𝒕𝒐𝒓</h3>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwon-hyw&count_bg=%2384A9FF&title_bg=%23AEAEAE&icon=&icon_color=%233366FF&title=hits&edge_flat=false"/></a>
   
-  <h3>🌱 𝑬𝒕𝒄.<h3>
+  <h3>🤍 𝑬𝒕𝒄.<h3>
 </div>
   
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=won-hyw&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=won-hyw)](https://solved.ac/won-hyw)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=won-hyw)](https://solved.ac/won-hyw)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=won-hyw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
